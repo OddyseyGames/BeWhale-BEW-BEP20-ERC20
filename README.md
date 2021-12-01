@@ -1,6 +1,6 @@
 # BEW Token [Solidity]
 
-![Be Whale Token](https://bew.dev/img/be-whale-coin.png)
+![Be Whale Token](https://bew.dev/img/be-whale-coin.png | width=320)
 
 ## About Be Whale game:
 ![Be Whale Token](https://bew.dev/img/adv-header.png)
