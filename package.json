@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "chai": "^4.3.4",
+    "chai-bignumber": "^3.0.0"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.5.1",
+    "truffle-plugin-verify": "^0.5.16"
+  }
+}
